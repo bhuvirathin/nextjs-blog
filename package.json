@@ -6,11 +6,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "@octokit/core": "^5.1.0",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "clsx": "^2.1.0"
   }
 }
